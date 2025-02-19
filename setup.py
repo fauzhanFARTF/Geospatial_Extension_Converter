@@ -14,6 +14,7 @@ install_requires=[
     "geopandas==1.0.1",
     "pyshp==2.3.1",
     "pyproj==3.7.0",
-    "gdal==3.10.1"
+    "gdal==3.10.1",
+    "setuptools==75.8.0"
     ]
 )
